@@ -1,0 +1,8 @@
+*.class
+*.log
+/.bsp
+/.idea
+*.iml
+/target
+/project/target
+/project/project/target/config-classes/$4651e9805b9b06a8748e.cache
